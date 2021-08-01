@@ -1,0 +1,9 @@
+.main-data{
+    display: flex;
+    justify-content: space-between;
+}
+
+.todoData{
+    margin:2% 5%;
+}
+

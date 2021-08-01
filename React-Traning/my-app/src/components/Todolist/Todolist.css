@@ -1,0 +1,16 @@
+.todolist{
+    border : 1px solid #BDC3C7;
+    background-color: white;
+    width: 860px;
+    min-height: 120px;
+    margin-top: 35px;
+}
+
+.tdoTitle{
+font-size: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+line-height: 2px;
+}
+.data{
+    margin-bottom: 1%;
+}

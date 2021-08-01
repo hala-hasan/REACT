@@ -1,0 +1,14 @@
+.Add{
+    background-color: #1010cf;
+    display: flex;
+    height: 55px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin-left:7px;
+    padding: 2px 0;
+}
+
+.AddText{
+    color: white;
+    padding: 5px 25px;
+}
